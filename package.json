@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-eago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tsconfig",
   "main": "tslint.json",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/eagowang/ts-lint-eago.git"
+    "url": "git+ssh://git@github.com/eagowang/tslint-config-eago.git"
   },
   "keywords": [
     "tslint",
@@ -18,7 +18,7 @@
   "author": "eago",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eagowang/ts-lint-eago/issues"
+    "url": "https://github.com/eagowang/tslint-config-eago/issues"
   },
-  "homepage": "https://github.com/eagowang/ts-lint-eago#readme"
+  "homepage": "https://github.com/eagowang/tslint-config-eago#readme"
 }
