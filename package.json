@@ -1,0 +1,24 @@
+{
+  "name": "tslint-config-eago",
+  "version": "1.0.0",
+  "description": "tsconfig",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eagowang/ts-lint-eago.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "tsconfig"
+  ],
+  "author": "eago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eagowang/ts-lint-eago/issues"
+  },
+  "homepage": "https://github.com/eagowang/ts-lint-eago#readme"
+}
